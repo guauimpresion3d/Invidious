@@ -1,0 +1,8 @@
+# Repositorio clonado de Invidious (submódulo externo)
+invidious/
+
+# Script de reinicio (contiene rutas locales)
+restart-invidious.bat
+
+# Archivos internos de Claude Code
+.claude/
